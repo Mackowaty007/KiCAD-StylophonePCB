@@ -1441,7 +1441,7 @@
     (property "Value" "Battery" (at 29.21 128.9685 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Battery:BatteryHolder_Keystone_1058_1x2032" (at 25.4 126.746 90)
+    (property "Footprint" "Battery:BatteryHolder_ComfortableElectronic_CH273-2450_1x2450" (at 25.4 126.746 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 25.4 126.746 90)
